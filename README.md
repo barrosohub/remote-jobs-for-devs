@@ -1,9 +1,9 @@
 # List of platforms that offer job vacancies list for remote work
 1 - https://flatworld.co/jobs/ (for everybody)
 
-2 - https://www.revelo.com.br/para-candidatos (for Brasilians)
+2 - https://www.revelo.com.br/para-candidatos (for brasilians)
 
-3 - https://impulso.network/lista-de-oportunidades (for Brasilians)
+3 - https://impulso.network/lista-de-oportunidades (for brasilians)
 
 4 - https://www.workingnomads.co/jobs (for everybody)
 
@@ -13,7 +13,7 @@
 
 7 - https://nodesk.co/remote-jobs/ (for everybody)
 
-8 - https://programathor.com.br/ (for Brasilians)
+8 - https://programathor.com.br/ (for brasilians)
 
 9 - https://stackoverflow.com/jobs/remote-developer-jobs (for everybody)
 
@@ -33,4 +33,4 @@
 
 17 - https://www.nixa.io/developer (for everybody)
 
-18 - https://portal.kula.jobs/ (for everybody)
+18 - https://portal.kula.jobs/ (for brasilians)

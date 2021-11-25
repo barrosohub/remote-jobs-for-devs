@@ -1,34 +1,34 @@
 # List of platforms that offer job vacancies list for remote work
-1 - https://flatworld.co/jobs/
+1 - https://flatworld.co/jobs/ (for everybody)
 
 2 - https://www.revelo.com.br/para-candidatos (for Brasilians)
 
 3 - https://impulso.network/lista-de-oportunidades (for Brasilians)
 
-4 - https://www.workingnomads.co/jobs
+4 - https://www.workingnomads.co/jobs (for everybody)
 
-5 - https://remotive.io/
+5 - https://remotive.io/ (for everybody)
 
-6 - https://remoteok.com/
+6 - https://remoteok.com/ (for everybody)
 
-7 - https://nodesk.co/remote-jobs/
+7 - https://nodesk.co/remote-jobs/ (for everybody)
 
 8 - https://programathor.com.br/ (for Brasilians)
 
-9 - https://stackoverflow.com/jobs/remote-developer-jobs
+9 - https://stackoverflow.com/jobs/remote-developer-jobs (for everybody)
 
-10 - https://arc.dev/remote-jobs
+10 - https://arc.dev/remote-jobs (for everybody)
 
-11 - https://www.turing.com/remote-developer-jobs
+11 - https://www.turing.com/remote-developer-jobs (for everybody)
 
-12 - https://justremote.co/remote-developer-jobs
+12 - https://justremote.co/remote-developer-jobs (for everybody)
 
-13 - https://weworkremotely.com/
+13 - https://weworkremotely.com/ (for everybody)
 
-14 - https://hired.com/talent
+14 - https://hired.com/talent (for everybody)
 
-15 - https://www.flexjobs.com/remote-jobs/computer-it?category=Computer+%26+IT&tele_level%5B%5D=All+Telecommuting
+15 - https://www.flexjobs.com/remote-jobs/computer-it?category=Computer+%26+IT&tele_level%5B%5D=All+Telecommuting (for everybody)
 
-16 - https://www.totaljobs.com/jobs/remote-developer
+16 - https://www.totaljobs.com/jobs/remote-developer (for everybody)
 
-17 - https://www.nixa.io/developer
+17 - https://www.nixa.io/developer (for everybody)

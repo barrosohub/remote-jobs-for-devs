@@ -33,4 +33,6 @@
 
 17 - https://www.nixa.io/developer (for everybody)
 
-18 - https://portal.kula.jobs/ (for brasilians)
+18 - https://coodesh.com/vagas (for brazilians)
+
+19 - https://portal.kula.jobs/ (for brasilians)

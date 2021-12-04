@@ -36,3 +36,5 @@
 18 - https://coodesh.com/vagas (for brazilians)
 
 19 - https://portal.kula.jobs/ (for brasilians)
+
+20 - https://soshace.com/jobs (for everybody)

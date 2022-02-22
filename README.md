@@ -46,3 +46,5 @@
 23 - https://vanhack.com/jobs (for everybody)
 
 24 - https://seujob.tech/categorias/remotas/ (for brasilians)
+
+25 - https://loka.com/careers#openings (for everybody)

@@ -1,4 +1,4 @@
-## 💼 List of platforms that offer job vacancies list for remote work 💻
+## 💼 List of Platforms Offering Remote Job Vacancies 💻
 
 👀 Check out the table below for a comprehensive list of remote job platforms that can help you land your dream job! From software development to customer service, these platforms offer a wide range of job vacancies for remote workers. Whether you're a seasoned professional or just starting your career, you're sure to find a job that suits your skills and experience.
 
@@ -6,35 +6,31 @@
 
 | # | Platform | Link 🔗 |
 | --- | --- | --- |
-| 1 | Flatworld | https://flatworld.co/jobs/ |
-| 2 | Revelo | https://www.revelo.com.br/para-candidatos |
-| 3 | Impulso | https://impulso.network/lista-de-oportunidades |
-| 4 | Working Nomads | https://www.workingnomads.co/jobs |
-| 5 | Remotive | https://remotive.io/ |
-| 6 | RemoteOK | https://remoteok.com/ |
-| 7 | Nodesk | https://nodesk.co/remote-jobs/ |
-| 8 | Programathor | https://programathor.com.br/ |
-| 9 | Stack Overflow | https://stackoverflow.com/jobs/remote-developer-jobs |
-| 10 | Arc.dev | https://arc.dev/remote-jobs |
-| 11 | Turing | https://www.turing.com/remote-developer-jobs |
-| 12 | JustRemote | https://justremote.co/remote-developer-jobs |
-| 13 | We Work Remotely | https://weworkremotely.com/ |
-| 14 | Hired | https://hired.com/talent |
-| 15 | FlexJobs | https://www.flexjobs.com/remote-jobs/computer-it?category=Computer+%26+IT&tele_level%5B%5D=All+Telecommuting |
-| 16 | TotalJobs | https://www.totaljobs.com/jobs/remote-developer |
-| 17 | Nixa | https://www.nixa.io/developer |
-| 18 | Coodesh | https://coodesh.com/vagas |
-| 19 | Kula | https://portal.kula.jobs/ |
-| 20 | Soshace | https://soshace.com/jobs |
-| 21 | LinkedIn | https://www.linkedin.com/jobs/ |
-| 22 | Himalayas | https://himalayas.app/jobs |
-| 23 | VanHack | https://vanhack.com/jobs |
-| 24 | SeuJob.tech | https://seujob.tech/categorias/remotas/ |
-| 25 | Loka | https://loka.com/careers#openings |
-| 26 | OutSystems | https://personal-jdln7y76.outsystemscloud.com/VagasTI/Vagas |
-| 27 | Provider IT | https://providerit.compleo.com.br/ |
-| 28 | GeekHunter | https://www.geekhunter.com.br/vagas |
-| 29 | Tecla | https://www.tecla.io/join |
-| 30 | WellFound | https://wellfound.com/role/r/software-engineer/ |
-| 31 | Beon.Tech | https://beon.tech/remote-jobs |
-| 32 | Insquad | https://dev.insquad.com/ |
+| 1 | Arc.dev | [Arc.dev Remote Jobs](https://arc.dev/remote-jobs) |
+| 2 | Beon.Tech | [Beon.Tech Remote Jobs](https://beon.tech/remote-jobs) |
+| 3 | Coodesh | [Coodesh Vacancies](https://coodesh.com/vagas) |
+| 4 | FlexJobs | [FlexJobs Computer & IT Jobs](https://www.flexjobs.com/remote-jobs/computer-it?category=Computer+%26+IT&tele_level%5B%5D=All+Telecommuting) |
+| 5 | GeekHunter | [GeekHunter Vacancies](https://www.geekhunter.com.br/vagas) |
+| 6 | Hired | [Hired Talent](https://hired.com/talent) |
+| 7 | Himalayas | [Himalayas Jobs](https://himalayas.app/jobs) |
+| 8 | Impulso | [Impulso Opportunities](https://impulso.team/pt/profissionais/oportunidades) |
+| 9 | Insquad | [Insquad](https://dev.insquad.com/) |
+| 10 | JustRemote | [JustRemote Developer Jobs](https://justremote.co/remote-developer-jobs) |
+| 11 | Kula | [Kula Jobs](https://portal.kula.jobs/) |
+| 12 | Loka | [Loka Careers](https://loka.com/careers#openings) |
+| 13 | Nixa | [Nixa Developer Jobs](https://www.nixa.io/developer) |
+| 14 | Nodesk | [Nodesk Remote Jobs](https://nodesk.co/remote-jobs/) |
+| 15 | Programathor | [Programathor](https://programathor.com.br/) |
+| 16 | RemoteOK | [RemoteOK](https://remoteok.com/) |
+| 17 | Remotive | [Remotive Jobs](https://remotive.io/) |
+| 18 | Revelo | [Revelo Jobs](https://www.revelo.com.br/) |
+| 19 | SeuJob.tech | [SeuJob.tech Remote Categories](https://seujob.tech/categorias/remotas/) |
+| 20 | Soshace | [Soshace Jobs](https://soshace.com/jobs) |
+| 21 | Tecla | [Tecla Join](https://www.tecla.io/join) |
+| 22 | TotalJobs | [TotalJobs Remote Developer Jobs](https://www.totaljobs.com/jobs/remote-developer) |
+| 23 | Turing | [Turing Remote Developer Jobs](https://www.turing.com/remote-developer-jobs) |
+| 24 | VanHack | [VanHack Jobs](https://vanhack.com/jobs) |
+| 25 | We Work Remotely | [We Work Remotely](https://weworkremotely.com/) |
+| 26 | WellFound | [WellFound Software Engineer Role](https://wellfound.com/role/r/software-engineer/) |
+| 27 | Working Nomads | [Working Nomads Jobs](https://www.workingnomads.co/jobs) |
+| 28 | Flatworld | [Flatworld Jobs](https://flatworld.co/jobs/) |

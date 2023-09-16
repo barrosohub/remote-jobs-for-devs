@@ -34,3 +34,14 @@
 | 26 | WellFound | [WellFound Software Engineer Role](https://wellfound.com/role/r/software-engineer/) |
 | 27 | Working Nomads | [Working Nomads Jobs](https://www.workingnomads.co/jobs) |
 | 28 | Flatworld | [Flatworld Jobs](https://flatworld.co/jobs/) |
+| 29 | Workatastartup | [Workatastartup](https://www.workatastartup.com/) |
+| 30 | SkipTheDrive | [SkipTheDrive](https://www.skipthedrive.com/) |
+| 31 | PowerToFly | [PowerToFly](https://powertofly.com/jobs/?location=Remote) |
+| 32 | Jobspresso | [Jobspresso Remote Work](https://jobspresso.co/remote-work/) |
+| 33 | Landing.jobs | [Landing.jobs Remote Jobs](https://landing.jobs/jobs?gr=true&fr=true&hd=false&t_co=false&t_st=false) |
+| 34 | AuthenticJobs | [AuthenticJobs](https://authenticjobs.com/?search_location=remote) |
+| 35 | Gun.io | [Gun.io Find Work](https://gun.io/find-work/) |
+| 36 | Idealist | [Idealist Remote Jobs](https://www.idealist.org/en/jobs?locationType=REMOTE&q=) |
+| 37 | SnapHunt | [SnapHunt Job Listings](https://snaphunt.com/job-listing) |
+| 38 | Pangian | [Pangian Job Travel Remote](https://pangian.com/job-travel-remote/) |
+| 39 | Hubstaff Talent | [Hubstaff Talent Job Search](https://talent.hubstaff.com/search/jobs) |

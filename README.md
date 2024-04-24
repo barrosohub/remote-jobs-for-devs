@@ -46,7 +46,7 @@
 | 38 | WellFound | [WellFound Software Engineer Role](https://wellfound.com/role/r/software-engineer/) |
 | 39 | Workatastartup | [Workatastartup](https://www.workatastartup.com/) |
 | 40 | Working Nomads | [Working Nomads Jobs](https://www.workingnomads.co/jobs) |
-| 41 | Remote.com | [Remote.com](https://remote.com/jobs/) |
+| 41 | Remote.com | [Remote.com](https://remote.com/jobs/all) |
 
 ### Key Takeaways:
 

@@ -47,6 +47,7 @@
 | 39 | Workatastartup | [Workatastartup](https://www.workatastartup.com/) |
 | 40 | Working Nomads | [Working Nomads Jobs](https://www.workingnomads.co/jobs) |
 | 41 | Remote.com | [Remote.com](https://remote.com/jobs/all) |
+| 42 | Distro | [Distro](https://distro.io/looking-to-be-hired/)
 
 ### Key Takeaways:
 

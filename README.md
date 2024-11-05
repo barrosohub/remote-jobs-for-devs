@@ -32,23 +32,24 @@
 | 24 | PowerToFly | [PowerToFly](https://powertofly.com/jobs/?location=Remote) |
 | 25 | Programathor | [Programathor](https://programathor.com.br/) |
 | 26 | RemoteOK | [RemoteOK](https://remoteok.com/) |
-| 27 | Remotive | [Remotive Jobs](https://remotive.io/) |
-| 28 | Revelo | [Revelo Jobs](https://www.revelo.com.br/) |
-| 29 | SeuJob.tech | [SeuJob.tech Remote Categories](https://seujob.tech/categorias/remotas/) |
-| 30 | SkipTheDrive | [SkipTheDrive](https://www.skipthedrive.com/) |
-| 31 | SnapHunt | [SnapHunt Job Listings](https://snaphunt.com/job-listing) |
-| 32 | Soshace | [Soshace Jobs](https://soshace.com/jobs) |
-| 33 | Tecla | [Tecla Join](https://www.tecla.io/join) |
-| 34 | TotalJobs | [TotalJobs Remote Developer Jobs](https://www.totaljobs.com/jobs/remote-developer) |
-| 35 | Turing | [Turing Remote Developer Jobs](https://www.turing.com/remote-developer-jobs) |
-| 36 | VanHack | [VanHack Jobs](https://vanhack.com/jobs) |
-| 37 | We Work Remotely | [We Work Remotely](https://weworkremotely.com/) |
-| 38 | WellFound | [WellFound Software Engineer Role](https://wellfound.com/role/r/software-engineer/) |
-| 39 | Workatastartup | [Workatastartup](https://www.workatastartup.com/) |
-| 40 | Working Nomads | [Working Nomads Jobs](https://www.workingnomads.co/jobs) |
-| 41 | Remote.com | [Remote.com](https://remote.com/jobs/all) |
-| 42 | Distro | [Distro](https://distro.io/looking-to-be-hired/) |
-| 43 | Strider | [Strider](https://www.onstrider.com/jobs)
+| 27 | RemoteYeah | [RemoteYeah](https://remoteyeah.com/) |
+| 28 | Remotive | [Remotive Jobs](https://remotive.io/) |
+| 29 | Revelo | [Revelo Jobs](https://www.revelo.com.br/) |
+| 30 | SeuJob.tech | [SeuJob.tech Remote Categories](https://seujob.tech/categorias/remotas/) |
+| 31 | SkipTheDrive | [SkipTheDrive](https://www.skipthedrive.com/) |
+| 32 | SnapHunt | [SnapHunt Job Listings](https://snaphunt.com/job-listing) |
+| 33 | Soshace | [Soshace Jobs](https://soshace.com/jobs) |
+| 34 | Tecla | [Tecla Join](https://www.tecla.io/join) |
+| 35 | TotalJobs | [TotalJobs Remote Developer Jobs](https://www.totaljobs.com/jobs/remote-developer) |
+| 36 | Turing | [Turing Remote Developer Jobs](https://www.turing.com/remote-developer-jobs) |
+| 37 | VanHack | [VanHack Jobs](https://vanhack.com/jobs) |
+| 38 | We Work Remotely | [We Work Remotely](https://weworkremotely.com/) |
+| 39 | WellFound | [WellFound Software Engineer Role](https://wellfound.com/role/r/software-engineer/) |
+| 40 | Workatastartup | [Workatastartup](https://www.workatastartup.com/) |
+| 41 | Working Nomads | [Working Nomads Jobs](https://www.workingnomads.co/jobs) |
+| 42 | Remote.com | [Remote.com](https://remote.com/jobs/all) |
+| 43 | Distro | [Distro](https://distro.io/looking-to-be-hired/) |
+| 44 | Strider | [Strider](https://www.onstrider.com/jobs)
 
 ### Key Takeaways:
 

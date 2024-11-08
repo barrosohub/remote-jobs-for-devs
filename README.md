@@ -50,6 +50,7 @@
 | 42 | Remote.com | [Remote.com](https://remote.com/jobs/all) |
 | 43 | Distro | [Distro](https://distro.io/looking-to-be-hired/) |
 | 44 | Strider | [Strider](https://www.onstrider.com/jobs)
+| 45 | Remote Job Zone | [RemoteJobZone](https://www.remotejobzone.online)
 
 ### Key Takeaways:
 

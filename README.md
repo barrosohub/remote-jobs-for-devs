@@ -10,46 +10,48 @@
 | 2 | AuthenticJobs | [AuthenticJobs](https://authenticjobs.com/?search_location=remote) |
 | 3 | Beon.Tech | [Beon.Tech Remote Jobs](https://beon.tech/remote-jobs) |
 | 4 | Coodesh | [Coodesh Vacancies](https://coodesh.com/vagas) |
-| 5 | FlexJobs | [FlexJobs Computer & IT Jobs](https://www.flexjobs.com/remote-jobs/computer-it?category=Computer+%26+IT&tele_level%5B%5D=All+Telecommuting) |
-| 6 | Flatworld | [Flatworld Jobs](https://flatworld.co/jobs/) |
-| 7 | GeekHunter | [GeekHunter Vacancies](https://www.geekhunter.com.br/vagas) |
-| 8 | Gun.io | [Gun.io Find Work](https://gun.io/find-work/) |
-| 9 | Hired | [Hired Talent](https://hired.com/talent) |
-| 10 | Himalayas | [Himalayas Jobs](https://himalayas.app/jobs) |
-| 11 | Hubstaff Talent | [Hubstaff Talent Job Search](https://talent.hubstaff.com/search/jobs) |
-| 12 | Idealist | [Idealist Remote Jobs](https://www.idealist.org/en/jobs?locationType=REMOTE&q=) |
-| 13 | Impulso | [Impulso Opportunities](https://impulso.team/pt/profissionais/oportunidades) |
-| 14 | Insquad | [Insquad](https://dev.insquad.com/) |
-| 15 | Jobspresso | [Jobspresso Remote Work](https://jobspresso.co/remote-work/) |
-| 16 | JustRemote | [JustRemote Developer Jobs](https://justremote.co/remote-developer-jobs) |
-| 17 | Kula | [Kula Jobs](https://portal.kula.jobs/) |
-| 18 | Landing.jobs | [Landing.jobs Remote Jobs](https://landing.jobs/jobs?gr=true&fr=true&hd=false&t_co=false&t_st=false) |
-| 19 | Loka | [Loka Careers](https://loka.com/careers#openings) |
-| 20 | Nixa | [Nixa Developer Jobs](https://www.nixa.io/developer) |
-| 21 | Nodesk | [Nodesk Remote Jobs](https://nodesk.co/remote-jobs/) |
-| 22 | OkJob | [4 Day Week Remote Jobs](https://okjob.io/remote-4-day-work-week/) |
-| 23 | Pangian | [Pangian Job Travel Remote](https://pangian.com/job-travel-remote/) |
-| 24 | PowerToFly | [PowerToFly](https://powertofly.com/jobs/?location=Remote) |
-| 25 | Programathor | [Programathor](https://programathor.com.br/) |
-| 26 | RemoteOK | [RemoteOK](https://remoteok.com/) |
-| 27 | RemoteYeah | [RemoteYeah](https://remoteyeah.com/) |
-| 28 | Remotive | [Remotive Jobs](https://remotive.io/) |
-| 29 | Revelo | [Revelo Jobs](https://www.revelo.com.br/) |
-| 30 | SeuJob.tech | [SeuJob.tech Remote Categories](https://seujob.tech/categorias/remotas/) |
-| 31 | SkipTheDrive | [SkipTheDrive](https://www.skipthedrive.com/) |
-| 32 | SnapHunt | [SnapHunt Job Listings](https://snaphunt.com/job-listing) |
-| 33 | Soshace | [Soshace Jobs](https://soshace.com/jobs) |
-| 34 | Tecla | [Tecla Join](https://www.tecla.io/join) |
-| 35 | TotalJobs | [TotalJobs Remote Developer Jobs](https://www.totaljobs.com/jobs/remote-developer) |
-| 36 | Turing | [Turing Remote Developer Jobs](https://www.turing.com/remote-developer-jobs) |
-| 37 | VanHack | [VanHack Jobs](https://vanhack.com/jobs) |
-| 38 | We Work Remotely | [We Work Remotely](https://weworkremotely.com/) |
-| 39 | WellFound | [WellFound Software Engineer Role](https://wellfound.com/role/r/software-engineer/) |
-| 40 | Workatastartup | [Workatastartup](https://www.workatastartup.com/) |
-| 41 | Working Nomads | [Working Nomads Jobs](https://www.workingnomads.co/jobs) |
-| 42 | Remote.com | [Remote.com](https://remote.com/jobs/all) |
-| 43 | Distro | [Distro](https://distro.io/looking-to-be-hired/) |
-| 44 | Strider | [Strider](https://www.onstrider.com/jobs)
+| 5 | Distro | [Distro](https://distro.io/looking-to-be-hired/) |
+| 6 | FlexJobs | [FlexJobs Computer & IT Jobs](https://www.flexjobs.com/remote-jobs/computer-it?category=Computer+%26+IT&tele_level%5B%5D=All+Telecommuting) |
+| 7 | Flatworld | [Flatworld Jobs](https://flatworld.co/jobs/) |
+| 8 | GeekHunter | [GeekHunter Vacancies](https://www.geekhunter.com.br/vagas) |
+| 9 | Gun.io | [Gun.io Find Work](https://gun.io/find-work/) |
+| 10 | Hired | [Hired Talent](https://hired.com/talent) |
+| 11 | Himalayas | [Himalayas Jobs](https://himalayas.app/jobs) |
+| 12 | Hubstaff Talent | [Hubstaff Talent Job Search](https://talent.hubstaff.com/search/jobs) |
+| 13 | Idealist | [Idealist Remote Jobs](https://www.idealist.org/en/jobs?locationType=REMOTE&q=) |
+| 14 | Impulso | [Impulso Opportunities](https://impulso.team/pt/profissionais/oportunidades) |
+| 15 | Insquad | [Insquad](https://dev.insquad.com/) |
+| 16 | Jobspresso | [Jobspresso Remote Work](https://jobspresso.co/remote-work/) |
+| 17 | JS Remotely | [JS Remotely](https://jsremotely.com) |
+| 18 | JustRemote | [JustRemote Developer Jobs](https://justremote.co/remote-developer-jobs) |
+| 19 | Kula | [Kula Jobs](https://portal.kula.jobs/) |
+| 20 | Landing.jobs | [Landing.jobs Remote Jobs](https://landing.jobs/jobs?gr=true&fr=true&hd=false&t_co=false&t_st=false) |
+| 21 | Loka | [Loka Careers](https://loka.com/careers#openings) |
+| 22 | Nodesk | [Nodesk Remote Jobs](https://nodesk.co/remote-jobs/) |
+| 23 | Nixa | [Nixa Developer Jobs](https://www.nixa.io/developer) |
+| 24 | OkJob | [4 Day Week Remote Jobs](https://okjob.io/remote-4-day-work-week/) |
+| 25 | Pangian | [Pangian Job Travel Remote](https://pangian.com/job-travel-remote/) |
+| 26 | PowerToFly | [PowerToFly](https://powertofly.com/jobs/?location=Remote) |
+| 27 | Programathor | [Programathor](https://programathor.com.br/) |
+| 28 | Remote.com | [Remote.com](https://remote.com/jobs/all) |
+| 29 | RemoteHunt | [RemoteHunt](https://remotehunt.com) |
+| 30 | RemoteOK | [RemoteOK](https://remoteok.com/) |
+| 31 | RemoteYeah | [RemoteYeah](https://remoteyeah.com/) |
+| 32 | Remotive | [Remotive Jobs](https://remotive.io/) |
+| 33 | Revelo | [Revelo Jobs](https://www.revelo.com.br/) |
+| 34 | SeuJob.tech | [SeuJob.tech Remote Categories](https://seujob.tech/categorias/remotas/) |
+| 35 | SkipTheDrive | [SkipTheDrive](https://www.skipthedrive.com/) |
+| 36 | SnapHunt | [SnapHunt Job Listings](https://snaphunt.com/job-listing) |
+| 37 | Soshace | [Soshace Jobs](https://soshace.com/jobs) |
+| 38 | Strider | [Strider](https://www.onstrider.com/jobs) |
+| 39 | Tecla | [Tecla Join](https://www.tecla.io/join) |
+| 40 | TotalJobs | [TotalJobs Remote Developer Jobs](https://www.totaljobs.com/jobs/remote-developer) |
+| 41 | Turing | [Turing Remote Developer Jobs](https://www.turing.com/remote-developer-jobs) |
+| 42 | VanHack | [VanHack Jobs](https://vanhack.com/jobs) |
+| 43 | We Work Remotely | [We Work Remotely](https://weworkremotely.com/) |
+| 44 | WellFound | [WellFound Software Engineer Role](https://wellfound.com/role/r/software-engineer/) |
+| 45 | Workatastartup | [Workatastartup](https://www.workatastartup.com/) |
+| 46 | Working Nomads | [Working Nomads Jobs](https://www.workingnomads.co/jobs) |
 
 ### Key Takeaways:
 

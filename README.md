@@ -52,6 +52,7 @@
 | 44 | Workatastartup | [Workatastartup](https://www.workatastartup.com/) |
 | 45 | Working Nomads | [Working Nomads Jobs](https://www.workingnomads.co/jobs) |
 | 46 | Remote100K | [Remote100K](https://remote100k.com/) |
+| 47 | Levels.fyi Jobs | [Levels.fyi Jobs](https://www.levels.fyi/jobs) |
 
 ### Key Takeaways:
 
